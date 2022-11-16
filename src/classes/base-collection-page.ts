@@ -81,7 +81,7 @@ export class BaseCollectionPage {
 
     // specific properties
     _.map(pageObject.properties, (value: string, key: any) => {
-      console.debug(`parsing ${key}: ${JSON.stringify(value, null, 2)}`);
+      // console.debug(`parsing ${key}: ${JSON.stringify(value, null, 2)}`);
       this[_.camelCase(key)] = parseProperty(value);
     });
   }

@@ -23,15 +23,19 @@ const TYPES_DIR = './src/classes';
   // console.log(collectionPages.map((e) => e.name));
 
   console.log(
-    collectionPages
-      .filter((e) => e.name.plainText.includes('primer blog'))
-      .map((e) => ({
-        title: e.name.plainText,
-        richTitle: JSON.stringify(e.name.richText),
-        summary: e.summary.plainText,
-        richSummary: JSON.stringify(e.summary.richText),
-        icon: e.icon,
-      }))
+    JSON.stringify(
+      collectionPages
+        .filter((e) => e.name.plainText.includes('primer blog'))
+        .map((e) => ({
+          title: e.name.plainText,
+          richTitle: e.name.richText,
+          summary: e.summary.plainText,
+          richSummary: e.summary.richText,
+          icon: e.icon,
+        })),
+      null,
+      2
+    )
   );
 
   // console.log(collectionPages.filter((e) => e.locale.text == 'en'));
