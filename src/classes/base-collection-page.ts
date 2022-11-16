@@ -3,6 +3,7 @@ import { Select } from './select';
 import {
   DateResponse,
   PageObjectResponse,
+  PartialPageObjectResponse,
   RichTextItemResponse,
   SelectPropertyResponse,
 } from './notion-api-endpoints';
@@ -17,7 +18,7 @@ const parsePropertyDate = (value: DateResponse) => {
 };
 
 const parsePropertyString = (value: Array<RichTextItemResponse>) => {
-  return value.map((e) => new RichText(e));
+  return new RichText(value);
 };
 
 const parsePropertySelect = (value: SelectPropertyResponse): Select => {
@@ -52,6 +53,7 @@ const parseProperty = (property: any) => {
 };
 
 export class BaseCollectionPage {
+  id: string;
   createdTime: Date;
   lastEditedTime: Date;
   createdBy: string;
@@ -61,9 +63,11 @@ export class BaseCollectionPage {
   parent: string;
   archived: boolean;
 
-  constructor(pageObject: PageObjectResponse) {
+  constructor(pageObj: PageObjectResponse | PartialPageObjectResponse) {
     // console.debug(`parsing pageObject`, pageObject);
     // common properties
+    const pageObject = pageObj as PageObjectResponse;
+    this.id = pageObject.id;
     this.createdTime = new Date(pageObject.created_time);
     this.lastEditedTime = new Date(pageObject.last_edited_time);
     this.createdBy = pageObject.created_by.id;
@@ -77,7 +81,7 @@ export class BaseCollectionPage {
 
     // specific properties
     _.map(pageObject.properties, (value: string, key: any) => {
-      // console.debug(`parsing ${key}: ${JSON.stringify(value, null, 2)}`);
+      console.debug(`parsing ${key}: ${JSON.stringify(value, null, 2)}`);
       this[_.camelCase(key)] = parseProperty(value);
     });
   }

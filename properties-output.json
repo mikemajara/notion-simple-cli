@@ -1,0 +1,2411 @@
+[
+  {
+    "id": "83bfbfc9-64c7-4a80-97d1-a3ee634bd10b",
+    "createdTime": "2022-10-18T22:18:00.000Z",
+    "lastEditedTime": "2022-10-18T22:18:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-10-18T22:18:00.000Z",
+    "isPublished": true,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-10-18T22:18:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Queues in the cloud",
+      "richText": [
+        {
+          "text": "Queues in the cloud",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "0662fe27-61d8-4ac2-ba6b-3c438cd38706",
+    "createdTime": "2022-10-10T08:15:00.000Z",
+    "lastEditedTime": "2022-11-15T20:24:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "vercel", "color": "purple" },
+      { "text": "automation", "color": "default" },
+      { "text": "lambda-function", "color": "orange" }
+    ],
+    "createdAt": "2022-10-10T08:15:00.000Z",
+    "publishedAt": "2022-10-01T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-11-15T20:24:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "vercel-caveats-automation",
+      "richText": [
+        {
+          "text": "vercel-caveats-automation",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Are NextJS & Vercel ready to run automation jobs, and if so? What are the limits to this? ",
+      "richText": [
+        {
+          "text": "Are NextJS & Vercel ready to run automation jobs, and if so? What are the limits to this? ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "vercel-caveats-automation",
+      "richText": [
+        {
+          "text": "vercel-caveats-automation",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Vercel Caveats in automation",
+      "richText": [
+        {
+          "text": "Vercel Caveats in automation",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2c6fe9af-2530-45df-8201-753f0b1d7400",
+    "createdTime": "2022-09-12T14:35:00.000Z",
+    "lastEditedTime": "2022-09-12T14:46:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "lifestyle", "color": "orange" },
+      { "text": "life", "color": "purple" },
+      { "text": "problem-solving", "color": "gray" }
+    ],
+    "createdAt": "2022-09-12T14:35:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-09-12T14:46:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "pregnancy-decision-test",
+      "richText": [
+        {
+          "text": "pregnancy-decision-test",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "What should a pregnant woman do?",
+      "richText": [
+        {
+          "text": "What should a pregnant woman do?",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "pregnancy-decision-test",
+      "richText": [
+        {
+          "text": "pregnancy-decision-test",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Quick decision framework for a pregnant woman",
+      "richText": [
+        {
+          "text": "Quick decision framework for a pregnant woman",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "09f97e5d-8925-4864-88f0-17ac474ccf7e",
+    "createdTime": "2022-08-31T09:36:00.000Z",
+    "lastEditedTime": "2022-08-31T15:34:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 1,
+    "tags": [
+      { "text": "alfred", "color": "orange" },
+      { "text": "clipboard", "color": "orange" },
+      { "text": "hacks", "color": "default" }
+    ],
+    "createdAt": "2022-08-31T09:36:00.000Z",
+    "publishedAt": "2022-08-27T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-08-31T15:34:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "advanced-clipboard-history-search-for-alfred",
+      "richText": [
+        {
+          "text": "advanced-clipboard-history-search-for-alfred",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Alfred’s copy history is by far one of its most powerful features. But what happens when you want to find an old item? Alfred’s UI now falls in short.",
+      "richText": [
+        {
+          "text": "Alfred’s copy history is by far one of its most powerful features. But what happens when you want to find an old item? Alfred’s UI now falls in short.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "advanced-clipboard-history-search-for-alfred",
+      "richText": [
+        {
+          "text": "advanced-clipboard-history-search-for-alfred",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Advanced Clipboard History Search for alfred",
+      "richText": [
+        {
+          "text": "Advanced Clipboard History Search for alfred",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b88fc33-ebab-4704-ae18-1e7ddde651ef",
+    "createdTime": "2022-08-26T08:45:00.000Z",
+    "lastEditedTime": "2022-08-26T08:57:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "nextjs", "color": "yellow" },
+      { "text": "authentication", "color": "gray" },
+      { "text": "supabase", "color": "green" }
+    ],
+    "createdAt": "2022-08-26T08:45:00.000Z",
+    "publishedAt": "2022-08-21T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-08-26T08:57:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "custom-page-auth-redirection-supabase-helpers",
+      "richText": [
+        {
+          "text": "custom-page-auth-redirection-supabase-helpers",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": {
+      "plainText": "custom-page-auth-redirection-supabase-helpers",
+      "richText": [
+        {
+          "text": "custom-page-auth-redirection-supabase-helpers",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Auth helpers and more in Supabase",
+      "richText": [
+        {
+          "text": "Auth helpers and more in Supabase",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f0ec53d-4878-4801-adb0-821e6d4470a1",
+    "createdTime": "2022-08-25T09:36:00.000Z",
+    "lastEditedTime": "2022-08-26T08:55:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "projects", "color": "blue" },
+      { "text": "tech", "color": "green" },
+      { "text": "life", "color": "purple" }
+    ],
+    "createdAt": "2022-08-25T09:36:00.000Z",
+    "publishedAt": "2022-08-25T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-08-26T08:55:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": {
+      "plainText": "articulea-ha-muerto",
+      "richText": [
+        {
+          "text": "articulea-ha-muerto",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": {
+      "plainText": "articulea-ha-muerto",
+      "richText": [
+        {
+          "text": "articulea-ha-muerto",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Articulea ha muerto. Larga vida, Articulea!",
+      "richText": [
+        {
+          "text": "Articulea ha muerto. Larga vida, Articulea!",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "607b04d1-b964-4dc7-9dda-39f25e2ce120",
+    "createdTime": "2022-04-13T15:31:00.000Z",
+    "lastEditedTime": "2022-08-26T08:44:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-04-13T15:31:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-08-26T08:44:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Eventualidades en el proceso",
+      "richText": [
+        {
+          "text": "Eventualidades en el proceso",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "95f3fd95-dda0-46dd-9e94-22afc0e19990",
+    "createdTime": "2022-04-13T14:26:00.000Z",
+    "lastEditedTime": "2022-04-13T15:37:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-04-13T14:26:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-04-13T15:37:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Final del primer acto",
+      "richText": [
+        {
+          "text": "Final del primer acto",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "86f79c64-45cf-4329-820d-a651f8b2e009",
+    "createdTime": "2022-04-06T15:24:00.000Z",
+    "lastEditedTime": "2022-09-28T17:35:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-04-06T15:24:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-09-28T17:35:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Do not use MongoDB",
+      "richText": [
+        {
+          "text": "Do not use MongoDB",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c6f6742-944b-4648-b93f-352d6d14a17f",
+    "createdTime": "2022-03-01T17:51:00.000Z",
+    "lastEditedTime": "2022-03-08T20:08:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-03-01T17:51:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-03-08T20:08:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Cloud Functions - Getting started",
+      "richText": [
+        {
+          "text": "Cloud Functions - Getting started",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "4adb636f-d50b-469a-a6c6-a3855cea2790",
+    "createdTime": "2022-02-21T17:26:00.000Z",
+    "lastEditedTime": "2022-02-22T07:58:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-02-21T17:26:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-02-22T07:58:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Boost your productivity - browser segmentation",
+      "richText": [
+        {
+          "text": "Boost your productivity - browser segmentation",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "b82fe904-f2bc-4a59-80fe-74bf9d6e6775",
+    "createdTime": "2022-02-19T21:20:00.000Z",
+    "lastEditedTime": "2022-02-21T09:40:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [{ "text": "finance", "color": "purple" }],
+    "createdAt": "2022-02-19T21:20:00.000Z",
+    "publishedAt": "2022-02-19T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-21T09:40:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "salary-model",
+      "richText": [
+        {
+          "text": "salary-model",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "📊 Get a deep dive into how your salary would look like.\n🔮 Forecast income accurately OTE salaries with performance and cap limits.\n🤔 Give your next raise negotiation a thought, answering questions like, how would a 6% increase perform with my current taxation?\n🧮 Online salary calculators do the trick for simple numbers... But if you want to have a broad understanding on how you are compesnsated, you need a proper model.\n💬 Feedback is welcome! New calculations are on the way, just let me know what you'd like to see on the sheet, and I'll add it to the queue.",
+      "richText": [
+        {
+          "text": "📊 Get a deep dive into how your salary would look like.\n🔮 Forecast income accurately OTE salaries with performance and cap limits.\n🤔 Give your next raise negotiation a thought, answering questions like, how would a 6% increase perform with my current taxation?\n🧮 Online salary calculators do the trick for simple numbers... But if you want to have a broad understanding on how you are compesnsated, you need a proper model.\n💬 Feedback is welcome! New calculations are on the way, just let me know what you'd like to see on the sheet, and I'll add it to the queue.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "salary-model",
+      "richText": [
+        {
+          "text": "salary-model",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Your salary model",
+      "richText": [
+        {
+          "text": "Your salary model",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "5fe1fa1c-612d-46e0-bb64-2fcd13c71771",
+    "createdTime": "2022-02-08T17:34:00.000Z",
+    "lastEditedTime": "2022-02-13T13:59:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-02-08T17:34:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-02-13T13:59:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Mi ego en el cambio",
+      "richText": [
+        {
+          "text": "Mi ego en el cambio",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "511dd882-b9a3-470e-a64b-8e04dd09d762",
+    "createdTime": "2022-02-08T17:12:00.000Z",
+    "lastEditedTime": "2022-02-11T14:32:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "data", "color": "green" },
+      { "text": "tech", "color": "green" },
+      { "text": "sql-server", "color": "orange" }
+    ],
+    "createdAt": "2022-02-08T17:12:00.000Z",
+    "publishedAt": "2022-02-08T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-11T14:32:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "batch-enable-change-tracking-sql-server",
+      "richText": [
+        {
+          "text": "batch-enable-change-tracking-sql-server",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "You are setting up your SQL Server database to replicate it with a data integration tool. You have settled that Change Tracking (CT) is the mechanism you’ll use, but... I have 100 tables on which to enable CT one by one! 😱",
+      "richText": [
+        {
+          "text": "You are setting up your SQL Server database to replicate it with a data integration tool. You have settled that Change Tracking (CT) is the mechanism you’ll use, but... I have 100 tables on which to enable CT one by one! 😱",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "batch-enable-change-tracking-sql-server",
+      "richText": [
+        {
+          "text": "batch-enable-change-tracking-sql-server",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Batch Enable Change Tracking (CT) on SQL Server",
+      "richText": [
+        {
+          "text": "Batch Enable Change Tracking (CT) on SQL Server",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "a359b5ea-0874-4bb2-ad9a-cf578db3ed2e",
+    "createdTime": "2022-02-03T11:41:00.000Z",
+    "lastEditedTime": "2022-02-08T18:12:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [{ "text": "opinion", "color": "orange" }],
+    "createdAt": "2022-02-03T11:41:00.000Z",
+    "publishedAt": "2022-01-31T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-08T18:12:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "me-and-my-ego",
+      "richText": [
+        {
+          "text": "me-and-my-ego",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "The ego, is generally what we refer to when we speak about ourselves in 3rd person. As a concept it can be a broader topic, but let us suppose that the ego is the awareness that there is a self, and how we refer to and relate to ourselves.",
+      "richText": [
+        {
+          "text": "The ego, is generally what we refer to when we speak about ourselves in 3rd person. As a concept it can be a broader topic, but let us suppose that the ego is the awareness that there is a self, and how we refer to and relate to ourselves.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "me-and-my-ego",
+      "richText": [
+        {
+          "text": "me-and-my-ego",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Me and my ego",
+      "richText": [
+        {
+          "text": "Me and my ego",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "21e9c3b1-4b3a-44e0-8352-7e0832618cbf",
+    "createdTime": "2022-02-01T12:45:00.000Z",
+    "lastEditedTime": "2022-02-02T11:23:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 2,
+    "tags": [
+      { "text": "blog", "color": "red" },
+      { "text": "opinion", "color": "orange" }
+    ],
+    "createdAt": "2022-02-01T12:45:00.000Z",
+    "publishedAt": "2022-02-01T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-02T11:23:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": {
+      "plainText": "articulea-otro-hilo-de-noticias-interesante",
+      "richText": [
+        {
+          "text": "articulea-otro-hilo-de-noticias-interesante",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Como ávido lector de prensa, cada día recorro las portadas de los diarios en busca de mi dosis de desinformación. A falta de redes sociales, ese scroll infinito sugiere que los diarios se están transformando en una forma de hilo infinito donde leer artículos irrelevantes.",
+      "richText": [
+        {
+          "text": "Como ávido lector de prensa, cada día recorro las portadas de los diarios en busca de mi dosis de ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "des",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "line-through false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "información. A falta de redes sociales, ese scroll infinito sugiere que los diarios se están transformando en una forma de hilo infinito donde leer artículos irrelevantes.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "articulea-otro-hilo-de-noticias-interesante",
+      "richText": [
+        {
+          "text": "articulea-otro-hilo-de-noticias-interesante",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Articulea. Otro hilo de noticias interesante.",
+      "richText": [
+        {
+          "text": "Articulea. Otro hilo de noticias interesante.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "0a3334f8-4b49-4515-840d-a35bc7344041",
+    "createdTime": "2022-01-25T15:26:00.000Z",
+    "lastEditedTime": "2022-01-25T17:01:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [{ "text": "life", "color": "purple" }],
+    "createdAt": "2022-01-25T15:26:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-01-25T17:01:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": {
+      "plainText": "who-am-i-a-way-to-define-my-self",
+      "richText": [
+        {
+          "text": "who-am-i-a-way-to-define-my-self",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "¿Quién soy? Una forma de definirme.",
+      "richText": [
+        {
+          "text": "¿Quién soy? Una forma de definirme.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "62a7cf3e-64ee-42ba-aa36-5099a571e95c",
+    "createdTime": "2022-01-24T23:03:00.000Z",
+    "lastEditedTime": "2022-01-25T14:42:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-01-24T23:03:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-01-25T14:42:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Un directivo jubilado",
+      "richText": [
+        {
+          "text": "Un directivo jubilado",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa138fa9-76f0-4943-a1ec-b6faa214a937",
+    "createdTime": "2022-01-24T07:59:00.000Z",
+    "lastEditedTime": "2022-01-24T08:00:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-01-24T07:59:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-01-24T08:00:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Criptodivisas y el metaverso. Una predicción ",
+      "richText": [
+        {
+          "text": "Criptodivisas y el metaverso. Una predicción ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "795e14d6-692e-49f2-b959-4da20f9dfb65",
+    "createdTime": "2022-01-24T07:57:00.000Z",
+    "lastEditedTime": "2022-01-25T14:45:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [],
+    "createdAt": "2022-01-24T07:57:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-01-25T14:45:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Inversiones y finanzas",
+      "richText": [
+        {
+          "text": "Inversiones y finanzas",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd48a318-a8a4-4c58-8106-45cd01224b5a",
+    "createdTime": "2022-01-24T07:54:00.000Z",
+    "lastEditedTime": "2022-02-13T13:59:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 2,
+    "tags": [{ "text": "opinion", "color": "orange" }],
+    "createdAt": "2022-01-24T07:54:00.000Z",
+    "publishedAt": "2022-01-31T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-13T13:59:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": {
+      "plainText": "mi-ego-y-yo",
+      "richText": [
+        {
+          "text": "mi-ego-y-yo",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "El ego, en términos generales es a lo que nos referimos cuando hablamos de nosotros mismos en 3ª persona. El problema más amplio en torno al ego es que a menudo nos referimos a él de manera inconsciente",
+      "richText": [
+        {
+          "text": "El ego, en términos generales es a lo que nos referimos cuando hablamos de nosotros mismos en 3ª persona. El problema más amplio en torno al ego es que a menudo nos referimos a él de manera inconsciente",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "me-and-my-ego",
+      "richText": [
+        {
+          "text": "me-and-my-ego",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Yo y mi ego",
+      "richText": [
+        {
+          "text": "Yo y mi ego",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "a72cd230-b27f-4ef0-9358-a0bb729dc2a6",
+    "createdTime": "2022-01-20T16:41:00.000Z",
+    "lastEditedTime": "2022-02-08T17:14:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "filosofia", "color": "brown" },
+      { "text": "problem-solving", "color": "gray" },
+      { "text": "lifestyle", "color": "orange" },
+      { "text": "opinion", "color": "orange" }
+    ],
+    "createdAt": "2022-01-20T16:41:00.000Z",
+    "publishedAt": "2022-01-21T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-08T17:14:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "the-x-y-problem-everywhere",
+      "richText": [
+        {
+          "text": "the-x-y-problem-everywhere",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "...the situation in you are trying to solve problem X, and you think solution Y would work, but instead of asking about X when you run into trouble, you ask about Y.",
+      "richText": [
+        {
+          "text": "...the situation in ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "you are trying to solve problem X, and you think solution Y would work, but instead of asking about X when you run into trouble, you ask about Y.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": "italic",
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "the-x-y-problem-everywhere",
+      "richText": [
+        {
+          "text": "the-x-y-problem-everywhere",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "The X-Y problem everywhere",
+      "richText": [
+        {
+          "text": "The X-Y problem everywhere",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "d062350a-be56-4f1e-9350-dba3e39b5434",
+    "createdTime": "2022-01-20T16:24:00.000Z",
+    "lastEditedTime": "2022-01-20T16:33:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "fivetran", "color": "blue" },
+      { "text": "pipeline", "color": "purple" },
+      { "text": "data", "color": "green" },
+      { "text": "postgresql", "color": "brown" },
+      { "text": "trigger", "color": "blue" }
+    ],
+    "createdAt": "2022-01-20T16:24:00.000Z",
+    "isPublished": false,
+    "author": { "plainText": "", "richText": [] },
+    "editedAt": "2022-01-20T16:33:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": { "plainText": "", "richText": [] },
+    "isProtected": false,
+    "summary": { "plainText": "", "richText": [] },
+    "universalSlug": { "plainText": "", "richText": [] },
+    "name": {
+      "plainText": "Trigger full table resync on column add - Fivetran",
+      "richText": [
+        {
+          "text": "Trigger full table resync on column add - Fivetran",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "cf71f5cb-084d-4810-9224-224a1fc473c1",
+    "createdTime": "2022-01-15T11:29:00.000Z",
+    "lastEditedTime": "2022-01-25T22:13:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 23,
+    "tags": [
+      { "text": "nextjs", "color": "yellow" },
+      { "text": "react", "color": "default" }
+    ],
+    "createdAt": "2022-01-15T11:29:00.000Z",
+    "publishedAt": "2022-01-15T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-01-25T22:13:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "shallow-route-change-hook",
+      "richText": [
+        {
+          "text": "shallow-route-change-hook",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "¿How to save state in my URL?",
+      "richText": [
+        {
+          "text": "¿How to save state in my URL?",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "shallow-route-change-hook",
+      "richText": [
+        {
+          "text": "shallow-route-change-hook",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Shallow route change hook",
+      "richText": [
+        {
+          "text": "Shallow route change hook",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "b6591026-61a6-4d7b-ad15-4ce45b0e1647",
+    "createdTime": "2022-01-13T11:26:00.000Z",
+    "lastEditedTime": "2022-01-13T11:29:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "tool", "color": "gray" },
+      { "text": "projects", "color": "blue" }
+    ],
+    "createdAt": "2022-01-13T11:26:00.000Z",
+    "publishedAt": "2022-01-13T00:00:00.000Z",
+    "isPublished": false,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-01-13T11:29:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "creating-an-api-call-scheduler",
+      "richText": [
+        {
+          "text": "creating-an-api-call-scheduler",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Creating an API Call Scheduler",
+      "richText": [
+        {
+          "text": "Creating an API Call Scheduler",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "creating-an-api-call-scheduler",
+      "richText": [
+        {
+          "text": "creating-an-api-call-scheduler",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Creating an API Call Scheduler",
+      "richText": [
+        {
+          "text": "Creating an API Call Scheduler",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "45d9b83f-275a-480e-adcd-5d13e9d53010",
+    "createdTime": "2022-01-11T22:24:00.000Z",
+    "lastEditedTime": "2022-01-11T22:25:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "cover": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "lifestyle", "color": "orange" },
+      { "text": "tech", "color": "green" },
+      { "text": "social", "color": "pink" }
+    ],
+    "createdAt": "2022-01-11T22:24:00.000Z",
+    "publishedAt": "2021-11-09T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-01-11T22:25:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "no-social-media-statement",
+      "richText": [
+        {
+          "text": "no-social-media-statement",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Why social media was always a no-go for me; How did I live all this time and why will I continue this way",
+      "richText": [
+        {
+          "text": "Why social media was always a no-go for me; How did I live all this time and why will I continue this way",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "no-social-media-statement",
+      "richText": [
+        {
+          "text": "no-social-media-statement",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Why you won't find me in social media",
+      "richText": [
+        {
+          "text": "Why you won't find me in social media",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "950bbe15-2112-44ef-92f1-039ba09585f1",
+    "createdTime": "2022-01-11T22:20:00.000Z",
+    "lastEditedTime": "2022-02-02T17:14:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "nextjs", "color": "yellow" },
+      { "text": "blog", "color": "red" },
+      { "text": "tutorial", "color": "blue" }
+    ],
+    "createdAt": "2022-01-11T22:20:00.000Z",
+    "publishedAt": "2021-08-28T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-02T17:14:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "my-multilingual-blog",
+      "richText": [
+        {
+          "text": "my-multilingual-blog",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "How to implement a multilingual blog with \"locale routing\" following the folder structure",
+      "richText": [
+        {
+          "text": "How to implement a multilingual blog with \"locale routing\" following the folder structure",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "my-multilingual-blog",
+      "richText": [
+        {
+          "text": "my-multilingual-blog",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "A multilingual blog in NextJS. The basics.",
+      "richText": [
+        {
+          "text": "A multilingual blog in NextJS. The basics.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "841e9300-fffb-4ae7-8e6f-e672637907f8",
+    "createdTime": "2022-01-10T22:05:00.000Z",
+    "lastEditedTime": "2022-10-23T21:16:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 2,
+    "tags": [{ "text": "content-creation", "color": "purple" }],
+    "createdAt": "2022-01-10T22:05:00.000Z",
+    "publishedAt": "2022-01-10T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-10-23T21:16:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "my-first-blog-post",
+      "richText": [
+        {
+          "text": "my-first-blog-post",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "The first blog post I will actually start using Notion with and how did I manage to do so. Read more to find out how this was not really so complicated.",
+      "richText": [
+        {
+          "text": "The first blog post I will actually start using Notion with and how did I manage to do so. Read more to find out how this was not really so complicated.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "my-first-blog-post",
+      "richText": [
+        {
+          "text": "my-first-blog-post",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "My first Notion based blog",
+      "richText": [
+        {
+          "text": "My first Notion based blog",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "167c034a-3343-49ef-b186-2aa732ad581e",
+    "createdTime": "2022-01-10T19:02:00.000Z",
+    "lastEditedTime": "2022-02-02T17:15:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": 1,
+    "tags": [
+      { "text": "blog", "color": "red" },
+      { "text": "nextjs", "color": "yellow" },
+      { "text": "notion", "color": "gray" }
+    ],
+    "createdAt": "2022-01-10T19:02:00.000Z",
+    "publishedAt": "2021-09-12T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-02-02T17:15:00.000Z",
+    "locale": { "text": "en", "color": "blue" },
+    "slug": {
+      "plainText": "notion-vs-nextjs",
+      "richText": [
+        {
+          "text": "notion-vs-nextjs",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Using Notion.so as a CMS. And how does it compare to building your own NextJS website.",
+      "richText": [
+        {
+          "text": "Using ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "Notion.so",
+          "href": "http://notion.so/",
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": " as a CMS. And how does it compare to building your own NextJS website.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "notion-vs-nextjs",
+      "richText": [
+        {
+          "text": "notion-vs-nextjs",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Notion vs NextJS",
+      "richText": [
+        {
+          "text": "Notion vs NextJS",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "93c8f530-0dc0-446c-9079-1238bc88a0f2",
+    "createdTime": "2022-01-10T16:12:00.000Z",
+    "lastEditedTime": "2022-01-10T22:43:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [
+      { "text": "lifestyle", "color": "orange" },
+      { "text": "tech", "color": "green" },
+      { "text": "social", "color": "pink" }
+    ],
+    "createdAt": "2022-01-10T16:12:00.000Z",
+    "publishedAt": "2021-11-09T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-01-10T22:43:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": {
+      "plainText": "declaracion-no-reglas-sociales",
+      "richText": [
+        {
+          "text": "declaracion-no-reglas-sociales",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Por qué las redes sociales no me van, cómo viví siempre así, y por qué seguiré sin ellas.",
+      "richText": [
+        {
+          "text": "Por qué las redes sociales no me van, cómo viví siempre así, y por qué seguiré sin ellas.",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "no-social-media-statement",
+      "richText": [
+        {
+          "text": "no-social-media-statement",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Por qué no me encontrarás en redes sociales",
+      "richText": [
+        {
+          "text": "Por qué no me encontrarás en redes sociales",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "aca9995e-ed1f-4ac7-93b7-a5724af33038",
+    "createdTime": "2022-01-10T15:16:00.000Z",
+    "lastEditedTime": "2022-11-16T23:03:00.000Z",
+    "createdBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "lastEditedBy": "1322a69d-135a-4d51-b5bc-5684a49344f8",
+    "icon": "https://cdn-icons-png.flaticon.com/512/254/254188.png",
+    "parent": "f8175b3b-af6d-47d1-bc6f-e3e50ec379a5",
+    "archived": false,
+    "likes": null,
+    "tags": [{ "text": "content-creation", "color": "purple" }],
+    "createdAt": "2022-01-10T15:16:00.000Z",
+    "publishedAt": "2022-01-10T00:00:00.000Z",
+    "isPublished": true,
+    "author": {
+      "plainText": "Miguel Alcalde",
+      "richText": [
+        {
+          "text": "Miguel Alcalde",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "editedAt": "2022-11-16T23:03:00.000Z",
+    "locale": { "text": "es", "color": "red" },
+    "slug": {
+      "plainText": "mi-primer-blogpost",
+      "richText": [
+        {
+          "text": "mi-primer-blogpost",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "isProtected": false,
+    "summary": {
+      "plainText": "Este es el primer blog post. Empezaré a usar Notion con lo que y cómo pueda. Sigue leyendo para descubrir cómo no era tan complicado.",
+      "richText": [
+        {
+          "text": "Este es el primer blog post. Empezaré a usar Notion con lo que y cómo pueda. Sigue leyendo para descubrir cómo no era tan ",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "complicado",
+          "href": null,
+          "style": {
+            "fontWeight": "bold",
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": ".",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "universalSlug": {
+      "plainText": "my-first-blog-post",
+      "richText": [
+        {
+          "text": "my-first-blog-",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        },
+        {
+          "text": "post",
+          "href": "/0662fe2761d84ac2ba6b3c438cd38706",
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    },
+    "name": {
+      "plainText": "Mi primer blogpost desde Notion",
+      "richText": [
+        {
+          "text": "Mi primer blogpost desde Notion",
+          "href": null,
+          "style": {
+            "fontWeight": false,
+            "fontStyle": false,
+            "textDecoration": "false false",
+            "color": "default",
+            "code": false
+          }
+        }
+      ]
+    }
+  }
+]

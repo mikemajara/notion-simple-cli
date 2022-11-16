@@ -30,11 +30,21 @@ export class TextStyle {
 
 export class RichText {
   plainText: string;
+  richText: Text[];
+
+  constructor(richTextArray: RichTextItemResponse[]) {
+    this.plainText = richTextArray.map((e) => e.plain_text).join('');
+    this.richText = richTextArray.map((e) => new Text(e));
+  }
+}
+
+export class Text {
+  text: string;
   href: string;
   style: TextStyle;
 
   constructor(richText: RichTextItemResponse) {
-    this.plainText = richText.plain_text;
+    this.text = richText.plain_text;
     this.href = richText.href;
     this.style = new TextStyle(richText.annotations);
   }

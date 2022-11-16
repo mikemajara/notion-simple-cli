@@ -1,0 +1,1177 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "a8b2d12d-45b2-4a20-94f7-2259fd13a915",
+            "created_time": "2022-07-25T14:36:00.000Z",
+            "last_edited_time": "2022-07-25T14:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "cover": null,
+            "icon": {
+                "type": "external",
+                "external": {
+                    "url": "https://miro.medium.com/max/1126/1*4vZ7HvuzOHZCCpCB7oNplg@2x.png"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "a0e709ca-0097-462f-926e-a869dff1c612"
+            },
+            "archived": false,
+            "properties": {
+                "likes": {
+                    "id": "A%5Cxd",
+                    "type": "number",
+                    "number": null
+                },
+                "tags": {
+                    "id": "Iyw%3C",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "dad66234-8b95-4619-8d99-9fbab657288f",
+                            "name": "data",
+                            "color": "blue"
+                        },
+                        {
+                            "id": "480313f4-29a6-4807-96f9-1f1156e640f3",
+                            "name": "tech",
+                            "color": "green"
+                        },
+                        {
+                            "id": "218742d1-ea85-4a0e-9eb2-7209b188e4bb",
+                            "name": "sales",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "publishedAt": {
+                    "id": "R%5C%7C%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-07-04",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "from": {
+                    "id": "USuV",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-07-04",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "isPublished": {
+                    "id": "Zft%7C",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "author": {
+                    "id": "%5D%5BJ~",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Miguel Alcalde",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Miguel Alcalde",
+                            "href": null
+                        }
+                    ]
+                },
+                "location": {
+                    "id": "%60%3C%40q",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "London, UK",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "London, UK",
+                            "href": null
+                        }
+                    ]
+                },
+                "to": {
+                    "id": "iv%5B~",
+                    "type": "date",
+                    "date": null
+                },
+                "locale": {
+                    "id": "k%3Dp%3D",
+                    "type": "select",
+                    "select": {
+                        "id": "f123f00d-7381-40c7-b224-adf3b6f281c0",
+                        "name": "en",
+                        "color": "blue"
+                    }
+                },
+                "slug": {
+                    "id": "njx_",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "select-star",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "select-star",
+                            "href": null
+                        }
+                    ]
+                },
+                "isProtected": {
+                    "id": "plB_",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "summary": {
+                    "id": "v%60In",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "universal-slug": {
+                    "id": "zxu%5E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "select-star",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "select-star",
+                            "href": null
+                        }
+                    ]
+                },
+                "name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Solutions Engineer",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Solutions Engineer",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Solutions-Engineer-a8b2d12d45b24a2094f72259fd13a915"
+        },
+        {
+            "object": "page",
+            "id": "ca4a1a43-5dd8-4c64-a1ec-4f95198fb05c",
+            "created_time": "2022-01-12T19:41:00.000Z",
+            "last_edited_time": "2022-01-15T11:20:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "cover": null,
+            "icon": {
+                "type": "external",
+                "external": {
+                    "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE77o-gZ6icsQ/company-logo_200_200/0/1633083004415?e=1650499200&v=beta&t=Dw7esiwKIz1s0mLeNCqWZgXFbjQiCWz_zhC1JCEJDMw"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "a0e709ca-0097-462f-926e-a869dff1c612"
+            },
+            "archived": false,
+            "properties": {
+                "likes": {
+                    "id": "A%5Cxd",
+                    "type": "number",
+                    "number": null
+                },
+                "tags": {
+                    "id": "Iyw%3C",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "01835d98-65e4-452f-98da-d097a0e3995c",
+                            "name": "consulting",
+                            "color": "pink"
+                        },
+                        {
+                            "id": "53a345dd-778a-4f6e-91a8-902b70cd4624",
+                            "name": "SAP",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "publishedAt": {
+                    "id": "R%5C%7C%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-01-12",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "from": {
+                    "id": "USuV",
+                    "type": "date",
+                    "date": {
+                        "start": "2017-01-01",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "isPublished": {
+                    "id": "Zft%7C",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "author": {
+                    "id": "%5D%5BJ~",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Miguel Alcalde",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Miguel Alcalde",
+                            "href": null
+                        }
+                    ]
+                },
+                "location": {
+                    "id": "%60%3C%40q",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Murcia, Spain",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Murcia, Spain",
+                            "href": null
+                        }
+                    ]
+                },
+                "to": {
+                    "id": "iv%5B~",
+                    "type": "date",
+                    "date": {
+                        "start": "2017-03-31",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "locale": {
+                    "id": "k%3Dp%3D",
+                    "type": "select",
+                    "select": {
+                        "id": "f123f00d-7381-40c7-b224-adf3b6f281c0",
+                        "name": "en",
+                        "color": "blue"
+                    }
+                },
+                "slug": {
+                    "id": "njx_",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "inforges",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "inforges",
+                            "href": null
+                        }
+                    ]
+                },
+                "isProtected": {
+                    "id": "plB_",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "summary": {
+                    "id": "v%60In",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "▪ Analyzing processes to migrate and improve business revenue, efficiency and data tracking ▪ Implementing SAP B1 on a variety of companies ▪ Business & process analysis, design, quantification and encoding of data & supply chain",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "▪ Analyzing processes to migrate and improve business revenue, efficiency and data tracking ▪ Implementing SAP B1 on a variety of companies ▪ Business & process analysis, design, quantification and encoding of data & supply chain",
+                            "href": null
+                        }
+                    ]
+                },
+                "universal-slug": {
+                    "id": "zxu%5E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "inforges",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "inforges",
+                            "href": null
+                        }
+                    ]
+                },
+                "name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "SAP Functional Consultant | Inforges",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "SAP Functional Consultant | Inforges",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/SAP-Functional-Consultant-Inforges-ca4a1a435dd84c64a1ec4f95198fb05c"
+        },
+        {
+            "object": "page",
+            "id": "36c2fdff-3dc3-4c75-9faf-bfcfeed3c7b2",
+            "created_time": "2022-01-12T19:29:00.000Z",
+            "last_edited_time": "2022-01-13T10:55:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "cover": null,
+            "icon": {
+                "type": "file",
+                "file": {
+                    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e39bf016-a2d6-4480-94e3-17f61803550e/logo-smartway.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221024%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221024T081247Z&X-Amz-Expires=3600&X-Amz-Signature=d3dba86ab05de03c5afdbb17f49104c8f6c938c812b6554e301921a10d3aaf8a&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-10-24T09:12:47.579Z"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "a0e709ca-0097-462f-926e-a869dff1c612"
+            },
+            "archived": false,
+            "properties": {
+                "likes": {
+                    "id": "A%5Cxd",
+                    "type": "number",
+                    "number": null
+                },
+                "tags": {
+                    "id": "Iyw%3C",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "fb40efad-573e-42d5-bb47-000b652f06f3",
+                            "name": "erp",
+                            "color": "gray"
+                        },
+                        {
+                            "id": "1a6f4fca-1554-46ac-81bf-d3a7e46384ab",
+                            "name": "full-stack",
+                            "color": "yellow"
+                        },
+                        {
+                            "id": "e2213d66-1ba8-4ac9-929c-664a3427313c",
+                            "name": "code",
+                            "color": "red"
+                        },
+                        {
+                            "id": "0b7ab383-c8ed-4c58-aaa5-5200220fcb5b",
+                            "name": "digitalization",
+                            "color": "blue"
+                        }
+                    ]
+                },
+                "publishedAt": {
+                    "id": "R%5C%7C%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-01-12",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "from": {
+                    "id": "USuV",
+                    "type": "date",
+                    "date": {
+                        "start": "2017-03-01",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "isPublished": {
+                    "id": "Zft%7C",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "author": {
+                    "id": "%5D%5BJ~",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Miguel Alcalde",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Miguel Alcalde",
+                            "href": null
+                        }
+                    ]
+                },
+                "location": {
+                    "id": "%60%3C%40q",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Murcia, Spain",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Murcia, Spain",
+                            "href": null
+                        }
+                    ]
+                },
+                "to": {
+                    "id": "iv%5B~",
+                    "type": "date",
+                    "date": {
+                        "start": "2018-12-31",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "locale": {
+                    "id": "k%3Dp%3D",
+                    "type": "select",
+                    "select": {
+                        "id": "f123f00d-7381-40c7-b224-adf3b6f281c0",
+                        "name": "en",
+                        "color": "blue"
+                    }
+                },
+                "slug": {
+                    "id": "njx_",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "smartway-studio",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "smartway-studio",
+                            "href": null
+                        }
+                    ]
+                },
+                "isProtected": {
+                    "id": "plB_",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "summary": {
+                    "id": "v%60In",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "▪ Analysis of companies’ processes, location of painpoints and digitalization improvement proposals. ▪ Milestones presentation and reviews in Agile environment. ▪ Deployment and enablement to customers on site. ▪ Design of software tools and arquitecture & development across all the technology stack (front&back)",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "▪ Analysis of companies’ processes, location of painpoints and digitalization improvement proposals. ▪ Milestones presentation and reviews in Agile environment. ▪ Deployment and enablement to customers on site. ▪ Design of software tools and arquitecture & development across all the technology stack (front&back)",
+                            "href": null
+                        }
+                    ]
+                },
+                "universal-slug": {
+                    "id": "zxu%5E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "smartway-studio",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "smartway-studio",
+                            "href": null
+                        }
+                    ]
+                },
+                "name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Solutions Engineer @ Smartway Studio",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Solutions Engineer @ Smartway Studio",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Solutions-Engineer-Smartway-Studio-36c2fdff3dc34c759fafbfcfeed3c7b2"
+        },
+        {
+            "object": "page",
+            "id": "7824e887-d238-4d39-9ef0-bafe8bbe89a8",
+            "created_time": "2022-01-12T19:24:00.000Z",
+            "last_edited_time": "2022-01-25T22:25:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "cover": null,
+            "icon": {
+                "type": "external",
+                "external": {
+                    "url": "https://static.turbosquid.com/Preview/2019/03/04__11_48_34/01.jpg5EBB33E9-BC54-41D7-9CD6-0C05D46E08E2Large.jpg"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "a0e709ca-0097-462f-926e-a869dff1c612"
+            },
+            "archived": false,
+            "properties": {
+                "likes": {
+                    "id": "A%5Cxd",
+                    "type": "number",
+                    "number": null
+                },
+                "tags": {
+                    "id": "Iyw%3C",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "dad66234-8b95-4619-8d99-9fbab657288f",
+                            "name": "data",
+                            "color": "blue"
+                        },
+                        {
+                            "id": "27734673-3e62-4a71-969f-073e0e3b56d1",
+                            "name": "python",
+                            "color": "pink"
+                        },
+                        {
+                            "id": "88d3aee3-24b1-4f57-95d7-6cafbba5930c",
+                            "name": "customer journey",
+                            "color": "brown"
+                        }
+                    ]
+                },
+                "publishedAt": {
+                    "id": "R%5C%7C%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-01-12",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "from": {
+                    "id": "USuV",
+                    "type": "date",
+                    "date": {
+                        "start": "2019-01-01",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "isPublished": {
+                    "id": "Zft%7C",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "author": {
+                    "id": "%5D%5BJ~",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Miguel Alcalde",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Miguel Alcalde",
+                            "href": null
+                        }
+                    ]
+                },
+                "location": {
+                    "id": "%60%3C%40q",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Ulm, Germany",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Ulm, Germany",
+                            "href": null
+                        }
+                    ]
+                },
+                "to": {
+                    "id": "iv%5B~",
+                    "type": "date",
+                    "date": {
+                        "start": "2020-05-04",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "locale": {
+                    "id": "k%3Dp%3D",
+                    "type": "select",
+                    "select": {
+                        "id": "f123f00d-7381-40c7-b224-adf3b6f281c0",
+                        "name": "en",
+                        "color": "blue"
+                    }
+                },
+                "slug": {
+                    "id": "njx_",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "daimler-tss",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "daimler-tss",
+                            "href": null
+                        }
+                    ]
+                },
+                "isProtected": {
+                    "id": "plB_",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "summary": {
+                    "id": "v%60In",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "▪ Analyzing hand in hand with the Data Science team socio-demographic data, and designing scoring algorithms to help the launch of the new EQC vehicles in +15 countries in Europe. ▪︎ Boosting the efficiency of query execution for an ERP used by +600 Mercedes-Benz retailers in China, working remotely with the teams in APAC to push project towards release commitment. ▪ Implementation of new features and optimization of existing ones for EvoBus' retail application, one of the biggest bus manufacturers in Europe.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "▪ Analyzing hand in hand with the Data Science team socio-demographic data, and designing scoring algorithms to help the launch of the new EQC vehicles in +15 countries in Europe. ▪︎ Boosting the efficiency of query execution for an ERP used by +600 Mercedes-Benz retailers in China, working remotely with the teams in APAC to push project towards release commitment. ▪ Implementation of new features and optimization of existing ones for EvoBus' retail application, one of the biggest bus manufacturers in Europe.",
+                            "href": null
+                        }
+                    ]
+                },
+                "universal-slug": {
+                    "id": "zxu%5E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "daimler-tss",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "daimler-tss",
+                            "href": null
+                        }
+                    ]
+                },
+                "name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Data Engineer @ Daimler TSS",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Data Engineer @ Daimler TSS",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Data-Engineer-Daimler-TSS-7824e887d2384d399ef0bafe8bbe89a8"
+        },
+        {
+            "object": "page",
+            "id": "deda7e73-ead4-4953-8fa0-72e11c5089cd",
+            "created_time": "2022-01-12T15:11:00.000Z",
+            "last_edited_time": "2022-10-21T15:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1322a69d-135a-4d51-b5bc-5684a49344f8"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "f5c33c72-d22e-443c-8c63-8b53e7078632"
+            },
+            "cover": null,
+            "icon": {
+                "type": "external",
+                "external": {
+                    "url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/mmhosuxvz2msbiieekl3"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "a0e709ca-0097-462f-926e-a869dff1c612"
+            },
+            "archived": false,
+            "properties": {
+                "likes": {
+                    "id": "A%5Cxd",
+                    "type": "number",
+                    "number": 3
+                },
+                "tags": {
+                    "id": "Iyw%3C",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "dad66234-8b95-4619-8d99-9fbab657288f",
+                            "name": "data",
+                            "color": "blue"
+                        },
+                        {
+                            "id": "e5701b76-b33e-4d9f-9a4a-5c17dcefa485",
+                            "name": "ELT",
+                            "color": "red"
+                        },
+                        {
+                            "id": "218742d1-ea85-4a0e-9eb2-7209b188e4bb",
+                            "name": "sales",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "publishedAt": {
+                    "id": "R%5C%7C%3D",
+                    "type": "date",
+                    "date": {
+                        "start": "2022-01-12",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "from": {
+                    "id": "USuV",
+                    "type": "date",
+                    "date": {
+                        "start": "2020-05-04",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "isPublished": {
+                    "id": "Zft%7C",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "author": {
+                    "id": "%5D%5BJ~",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Miguel Alcalde",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Miguel Alcalde",
+                            "href": null
+                        }
+                    ]
+                },
+                "location": {
+                    "id": "%60%3C%40q",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Dublin, Ireland",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Dublin, Ireland",
+                            "href": null
+                        }
+                    ]
+                },
+                "to": {
+                    "id": "iv%5B~",
+                    "type": "date",
+                    "date": null
+                },
+                "locale": {
+                    "id": "k%3Dp%3D",
+                    "type": "select",
+                    "select": {
+                        "id": "f123f00d-7381-40c7-b224-adf3b6f281c0",
+                        "name": "en",
+                        "color": "blue"
+                    }
+                },
+                "slug": {
+                    "id": "njx_",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "fivetran",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "fivetran",
+                            "href": null
+                        }
+                    ]
+                },
+                "isProtected": {
+                    "id": "plB_",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "summary": {
+                    "id": "v%60In",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "▪ Advising customers and identifying business opportunities ▪ collaborating closely with sales on landing and expanding new & existing businesses ▪ Management and implementation of tools to boost the global team’s performance up to 130% ▪ Management of major incidents and coordination with different Product & Engineering. ▪ Designing and implementating processes to scale and improve the team’s efficiency closely aligned with the leadership team.",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "▪ Advising customers and identifying business opportunities ▪ collaborating closely with sales on landing and expanding new & existing businesses ▪ Management and implementation of tools to boost the global team’s performance up to 130% ▪ Management of major incidents and coordination with different Product & Engineering. ▪ Designing and implementating processes to scale and improve the team’s efficiency closely aligned with the leadership team.",
+                            "href": null
+                        }
+                    ]
+                },
+                "universal-slug": {
+                    "id": "zxu%5E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "fivetran",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "fivetran",
+                            "href": null
+                        }
+                    ]
+                },
+                "name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Sales Engineer @ Fivetran",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Sales Engineer @ Fivetran",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Sales-Engineer-Fivetran-deda7e73ead449538fa072e11c5089cd"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false
+}
