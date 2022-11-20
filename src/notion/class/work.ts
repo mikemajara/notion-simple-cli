@@ -2,21 +2,22 @@
 // don't edit below this line
 
 import { RichText } from "./rich-text";
-import { BaseCollectionPage } from "./base-collection-page";
+import { BaseCollectionPage } from "./collection-page-base";
 import {
   PageObjectResponse,
   PartialPageObjectResponse,
 } from "./notion-api-endpoints";
 import { Select } from "./select";
 
-export class CollectionPageBlog extends BaseCollectionPage {
+export class Work extends BaseCollectionPage {
   likes: number;
   tags: Array<Select>;
-  createdAt: Date;
   publishedAt: Date;
+  from: Date;
   isPublished: boolean;
   author: RichText;
-  editedAt: Date;
+  location: RichText;
+  to: Date;
   locale: Select;
   slug: RichText;
   isProtected: boolean;

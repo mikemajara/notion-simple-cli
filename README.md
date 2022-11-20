@@ -5,12 +5,12 @@ Notion CLI made simple
 ## getting started
 
 - Install: `yarn`
-- Run: `yarn`
+- Run: `yarn watch`
 - Watch: `yarn watch:build`
 
 Try out:
 
-`node build/main/generate.js` generatest types in `./classes` folder
+`node bin/cli.js` generates types in `./src/notion/class` folder
 
 ## roadmap
 
@@ -105,5 +105,8 @@ const notion = new NotionClient(process.env.NOTION_TOKEN);
 
 ```
 
+# TODO
 
-
+- [ ] Bundle with 2 entry points such that one can use the cli for the type generation and importing classes does not run the executable. That part is not working.
+- [ ] correctly link packages and set up test environment.
+- [ ] Design a way to call getCollection in a simple form. currently the api created only retrieves information to generate the typing, but retrieving the collection becomes weird again.

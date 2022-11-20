@@ -4,26 +4,27 @@ import {
   GetDatabaseResponse,
   QueryDatabaseBodyParameters,
   QueryDatabaseResponse,
-} from '../classes/notion-api-endpoints';
+} from './class/notion-api-endpoints';
 
 export class NotionClient {
-  notion: Client;
+  public notion: Client;
 
-  constructor(notionToken: string) {
-    console.log(`creating new client with ${notionToken}`);
+  public constructor(notionToken: string) {
+    console.log(`Creating Notion client with token ${notionToken}`);
     this.notion = new Client({ auth: notionToken });
   }
 
-  getCollection = async (databaseId): Promise<DatabaseObjectResponse> => {
+  public getCollection = async (databaseId: string): Promise<DatabaseObjectResponse> => {
+    console.log(`Retrieving collection ${databaseId}`);
     const response = await this.notion.databases.retrieve({
       database_id: databaseId,
     });
     return response as DatabaseObjectResponse;
   };
 
-  getCollectionPages = async (
-    databaseId,
-    query?: QueryDatabaseBodyParameters
+  public getCollectionPages = async (
+    databaseId: string,
+    query?: QueryDatabaseBodyParameters,
   ): Promise<QueryDatabaseResponse> => {
     const response = await this.notion.databases.query({
       database_id: databaseId,
@@ -32,9 +33,17 @@ export class NotionClient {
     return response;
   };
 
-  getPage = async () => {};
-  getPageChildren = async () => {};
+  public getPage = async () => {
+    throw Error(`undefined method`);
+  };
+  public getPageChildren = async () => {
+    throw Error(`undefined method`);
+  };
 
-  getBlock = async () => {};
-  getBlockChildren = async () => {};
+  public getBlock = async () => {
+    throw Error(`undefined method`);
+  };
+  public getBlockChildren = async () => {
+    throw Error(`undefined method`);
+  };
 }

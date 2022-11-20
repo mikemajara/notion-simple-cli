@@ -1,24 +1,17 @@
-import {
-  RichTextItemResponse,
-  AnnotationResponse,
-  ApiColor,
-} from './notion-api-endpoints';
+import { RichTextItemResponse, AnnotationResponse, ApiColor } from './notion-api-endpoints';
 
 export class TextStyle {
-  fontWeight: string;
-  fontStyle: string;
-  textDecoration: string;
+  fontWeight: string | null;
+  fontStyle: string | null;
+  textDecoration: string | null;
   code: boolean;
   color: ApiColor;
-  backgroundColor: string;
+  backgroundColor: string | null;
 
   constructor(annotations: AnnotationResponse) {
-    this.fontWeight = annotations.bold && 'bold';
-    this.fontStyle = annotations.italic && 'italic';
-    this.textDecoration = [
-      annotations.strikethrough && 'line-through',
-      annotations.underline && 'underline',
-    ].join(' ');
+    this.fontWeight = annotations.bold ? 'bold' : null;
+    this.fontStyle = annotations.italic ? 'italic' : null;
+    this.textDecoration = [annotations.strikethrough && 'line-through', annotations.underline && 'underline'].join(' ');
     if (annotations.color.includes('background')) {
       this.backgroundColor = annotations.color.replace('_background', '');
     } else {
@@ -39,9 +32,9 @@ export class RichText {
 }
 
 export class Text {
-  text: string;
-  href: string;
-  style: TextStyle;
+  text: string | null;
+  href: string | null;
+  style: TextStyle | null;
 
   constructor(richText: RichTextItemResponse) {
     this.text = richText.plain_text;

@@ -4,6 +4,7 @@ import {
   DateResponse,
   PageObjectResponse,
   PartialPageObjectResponse,
+  QueryDatabaseBodyParameters,
   RichTextItemResponse,
   SelectPropertyResponse,
 } from './notion-api-endpoints';
@@ -25,13 +26,11 @@ const parsePropertySelect = (value: SelectPropertyResponse): Select => {
   return new Select(value);
 };
 
-const parsePropertyMultiSelect = (
-  value: SelectPropertyResponse[]
-): Select[] => {
+const parsePropertyMultiSelect = (value: SelectPropertyResponse[]): Select[] => {
   return value.map((e) => new Select(e));
 };
 
-const FUNCTION_MAP = {
+const FUNCTION_MAP: Record<string, Function> = {
   created_time: parsePropertyFlatValue,
   last_edited_time: parsePropertyFlatValue,
   date: parsePropertyDate,
@@ -45,7 +44,7 @@ const FUNCTION_MAP = {
 
 const parseProperty = (property: any) => {
   try {
-    let t = property.type;
+    const t = property.type;
     return FUNCTION_MAP[t](property[t]);
   } catch (err) {
     console.error(err);
@@ -72,12 +71,11 @@ export class BaseCollectionPage {
     this.lastEditedTime = new Date(pageObject.last_edited_time);
     this.createdBy = pageObject.created_by.id;
     this.lastEditedBy = pageObject.last_edited_by.id;
-    this.cover = pageObject.cover?.[pageObject.cover.type]?.url;
-    this.icon =
-      pageObject.icon?.['emoji'] ??
-      pageObject.icon?.[pageObject.icon.type]?.url;
-    this.parent = pageObject.parent[pageObject.parent.type];
     this.archived = pageObject.archived;
+
+    this.cover = pageObject.cover?.[pageObject.cover.type]?.url;
+    this.icon = pageObject.icon?.['emoji'] ?? pageObject.icon?.[pageObject.icon.type]?.url;
+    this.parent = pageObject.parent[pageObject.parent.type];
 
     // specific properties
     _.map(pageObject.properties, (value: string, key: any) => {

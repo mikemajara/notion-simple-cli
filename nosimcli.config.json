@@ -1,0 +1,12 @@
+{
+  "databases": [
+    {
+      "id": "f8175b3baf6d47d1bc6fe3e50ec379a5",
+      "prefix": "item"
+    },
+    {
+      "id": "a0e709ca0097462f926ea869dff1c612",
+      "prefix": "item"
+    }
+  ]
+}
