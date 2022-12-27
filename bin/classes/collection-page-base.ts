@@ -32,7 +32,7 @@ const parsePropertyMultiSelect = (
   return value.map((e) => new Select(e));
 };
 
-const FUNCTION_MAP: Record<string, Function> = {
+const FUNCTION_MAP: Record<string, any> = {
   created_time: parsePropertyFlatValue,
   last_edited_time: parsePropertyFlatValue,
   date: parsePropertyDate,

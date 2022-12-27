@@ -1,4 +1,4 @@
-import * as fs from 'fs';
+import * as fs from "fs";
 
 export function parseJSONFile(path: string) {
   let rawdata = fs.readFileSync(path).toString();

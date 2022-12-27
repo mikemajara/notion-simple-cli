@@ -1,5 +1,5 @@
-import { parseJSONFile } from './parse-json-file';
+import { parseJSONFile } from "./parse-json-file";
 
-export function readNosimcliConfig(path: string) {
-  return parseJSONFile(path);
+export function readNosimcliConfig(filepath) {
+  return parseJSONFile(filepath);
 }

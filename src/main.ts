@@ -6,11 +6,13 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 const CONFIG_FILE_LOCATION = './nosimcli.config.json';
-const DEFAULT_FILEPATH = 'src/notion/class';
+const DEFAULT_FILEPATH = '.';
 
 const program = new commander.Command();
 
-program.enablePositionalOptions().option('-d, --debug', 'output extra debugging');
+program
+  .enablePositionalOptions()
+  .option('-d, --debug', 'output extra debugging');
 
 program
   .command('generate')
@@ -31,3 +33,5 @@ program.name(name);
 program.version(version);
 
 program.parse();
+
+console.log(`calling from ${process.cwd()}`);

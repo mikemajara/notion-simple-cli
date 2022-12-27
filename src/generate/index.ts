@@ -3,10 +3,12 @@ import path from 'path';
 import { NotionClient } from '../notion/client';
 import { Collection } from './collection';
 
-const NODE_MODULE_PREFIX = './node_modules/nosimcli/'; // use when testing installed
-
-const saveFile = async (content: string, filepath: string, filename: string) => {
-  const fullPath = path.join(NODE_MODULE_PREFIX, filepath, filename);
+const saveFile = async (
+  content: string,
+  filepath: string,
+  filename: string
+) => {
+  const fullPath = path.join(__dirname, filepath, filename);
   console.log(`Saving file to ${fullPath} `);
 
   fs.writeFileSync(fullPath, content);
@@ -25,7 +27,22 @@ export const genClassFilesForConfig = async (config: any, output: string) => {
       collection.genClassFileString(database.name, database.prefix),
       collection.getFileName(database.name, database.prefix),
     ];
-
+    if (!fs.existsSync(path.join(__dirname, output))) {
+      fs.mkdirSync(path.join(__dirname, output), { recursive: true });
+    }
     saveFile(content, output, fileName);
+    fs.readdirSync(path.join(__dirname, '../src/notion/class')).forEach((e) => {
+      console.log(
+        `copying file ${path.join(
+          __dirname,
+          '../src/notion/class',
+          e
+        )} to ${path.join(output, e)}`
+      );
+      fs.copyFileSync(
+        path.join(__dirname, '../src/notion/class', e),
+        path.join(__dirname, output, e)
+      );
+    });
   }
 };

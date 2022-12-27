@@ -43,8 +43,8 @@ function parseJSONFile(path) {
   return data;
 }
 
-function readNosimcliConfig(path) {
-  return parseJSONFile(path);
+function readNosimcliConfig(filepath) {
+  return parseJSONFile(filepath);
 }
 
 var name = "nosimcli";
@@ -112,9 +112,10 @@ class Text {
   }
 }
 
-const NODE_MODULE_PREFIX$1 = './node_modules/nosimcli/'; // use when testing installed
-
-const DIR_CLASSES = NODE_MODULE_PREFIX$1 + 'src/notion/class';
+console.log(`__filename`, __filename);
+console.log(`__dirname`, __dirname);
+console.log(`process.cwd()`, process.cwd());
+const DIR_CLASSES = path__default["default"].join(__dirname, '../src/notion/class');
 const CONSTRUCTOR = `
   constructor(pageObject: PageObjectResponse | PartialPageObjectResponse) {
     super(pageObject);
@@ -179,10 +180,8 @@ class Collection {
   };
 }
 
-const NODE_MODULE_PREFIX = './node_modules/nosimcli/'; // use when testing installed
-
 const saveFile = async (content, filepath, filename) => {
-  const fullPath = path__default["default"].join(NODE_MODULE_PREFIX, filepath, filename);
+  const fullPath = path__default["default"].join(__dirname, filepath, filename);
   console.log(`Saving file to ${fullPath} `);
   fs__default["default"].writeFileSync(fullPath, content);
 };
@@ -195,13 +194,22 @@ const genClassFilesForConfig = async (config, output) => {
     let collection = new Collection(notionCollection);
     console.log(`processing database `, database);
     const [content, fileName] = [collection.genClassFileString(database.name, database.prefix), collection.getFileName(database.name, database.prefix)];
+    if (!fs__default["default"].existsSync(path__default["default"].join(__dirname, output))) {
+      fs__default["default"].mkdirSync(path__default["default"].join(__dirname, output), {
+        recursive: true
+      });
+    }
     saveFile(content, output, fileName);
+    fs__default["default"].readdirSync(path__default["default"].join(__dirname, '../src/notion/class')).forEach(e => {
+      console.log(`copying file ${path__default["default"].join(__dirname, '../src/notion/class', e)} to ${path__default["default"].join(output, e)}`);
+      fs__default["default"].copyFileSync(path__default["default"].join(__dirname, '../src/notion/class', e), path__default["default"].join(__dirname, output, e));
+    });
   }
 };
 
 dotenv__namespace.config();
 const CONFIG_FILE_LOCATION = './nosimcli.config.json';
-const DEFAULT_FILEPATH = 'src/notion/class';
+const DEFAULT_FILEPATH = '.';
 const program = new commander__default["default"].Command();
 program.enablePositionalOptions().option('-d, --debug', 'output extra debugging');
 program.command('generate').option('-c, --config <path>', 'config file (json)').option('-o, --output <path>', 'output file').option('-d, --debug', 'output extra debugging').action(options => {
@@ -213,3 +221,4 @@ program.command('generate').option('-c, --config <path>', 'config file (json)').
 program.name(name);
 program.version(version);
 program.parse();
+console.log(`calling from ${process.cwd()}`);

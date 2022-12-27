@@ -9,20 +9,12 @@ import {
 } from "./notion-api-endpoints";
 import { Select } from "./select";
 
-export class Work extends BaseCollectionPage {
-  likes: number;
-  tags: Array<Select>;
-  publishedAt: Date;
-  from: Date;
-  isPublished: boolean;
-  author: RichText;
-  location: RichText;
-  to: Date;
-  locale: Select;
-  slug: RichText;
-  isProtected: boolean;
-  summary: RichText;
-  universalSlug: RichText;
+export class ItemPaquito extends BaseCollectionPage {
+  image: undefined;
+  color: Select;
+  link: undefined;
+  size: Select;
+  reservado: boolean;
   name: RichText;
 
   constructor(pageObject: PageObjectResponse | PartialPageObjectResponse) {
